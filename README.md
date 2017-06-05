@@ -12,4 +12,4 @@ MMAP is compiled with the Intel Math Kernel library for the Unix/Linux environme
 
 ### MMAP website
 
-Visit the [MMAPportal website](https://MMAP.github.io/) for the complete guide to using MMAP.
+Visit the [MMAP website](https://MMAP.github.io/) for the complete guide to using MMAP.
