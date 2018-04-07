@@ -11,7 +11,7 @@ MMAP uses a fast low-memory method to calculate additive and dominant genetic co
 
 ### Installation
 
-MMAP is compiled with the Intel Math Kernel library for the Unix/Linux environment and uses BLAS and LAPACK libraries. To ensure compatibility only a static executable is currently available. After download, be sure to make the file executable. [Click here to download MMAP](https://github.com/MMAP/MMAP-releases-issues-Q-and-A/releases/latest).
+MMAP is statically compiled with the Intel Math Kernel library for the Unix/Linux environment and uses BLAS and LAPACK libraries. To ensure compatibility only a static executable is currently available. After download, be sure to make the file executable. [Click here to download MMAP](https://github.com/MMAP/MMAP-releases-issues-Q-and-A/releases/latest).
 
 ### MMAP website
 
